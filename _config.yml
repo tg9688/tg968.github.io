@@ -7,7 +7,7 @@ headline: Inventor, Engineer and Futurist
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://tg968.github.io" # the base hostname & protocol for your site
 copyright: 2016 Whatever Company, Inc. All Rights Reserved.
 
 # Build settings
@@ -17,9 +17,7 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
+email: tg9688@naver.com
+phone: 010-9623-9688
 
-# Tracking
-googleAnalitycsID: UA-83933844-1
 
