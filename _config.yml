@@ -1,8 +1,8 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
-email: tg9688@naver.com
-brand: Lee Je Hun
+메일: tg9688@naver.com
+이름: Lee Je Hun
 headline: baseball, Throw and Hit
 description: > # this means to ignore newlines until "baseurl:"
   New Site
@@ -17,7 +17,7 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: tg9688@naver.com
-phone: 010-9623-9688
+메일: tg9688@naver.com
+전화번호: 010-9623-9688
 
 
