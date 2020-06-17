@@ -1,9 +1,9 @@
-The MIT License (MIT)
+MIT 라이센스 (MIT)
 
-Copyright (c) 2016 Sergey Sokurenko, Portfolio Central Organization
+저작권 (c) 2016 세르게이 소쿠렌코, 포트폴리오 중앙 조직
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+소프트웨어의 사용, 복사, 수정, 병합, 게시, 배포, 하위 라이선스 및/또는 판매 권한을 포함하여 제한 없이 소프트웨어를 처리할 수 있는 이 소프트웨어 및 관련 문서 파일("소프트웨어")의 사본을 입수하는 모든 개인에게 무료로 허가된다.소프트웨어 제공자에게 다음과 같은 조건에 따라 소프트웨어를 제공해야 한다.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+위의 저작권 고지 및 이 허가 고지는 소프트웨어의 모든 사본 또는 상당 부분에 포함되어야 한다.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+소프트웨어는 상품성, 특정 목적에의 적합성 및 비침해의 보증을 포함하되 이에 국한되지 않고 어떠한 종류의 명시적 또는 묵시적 보증도 없이 "있는 그대로" 제공된다. 어떠한 경우에도 저작자나 저작권 소유자는 책임을 지지 않는다.HERWISE는 소프트웨어, 소프트웨어 사용 또는 기타 거래와 관련하여 발생하거나, 소프트웨어와 관련이 없다.
