@@ -7,7 +7,7 @@ headline: baseball, Throw and Hit
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tg968.github.io" # the base hostname & protocol for your site
+url: "<font class="papago-parent"><font class="papago-source" style="display:none;"><!-- SnapWidget --> <iframe src="https://snapwidget.com/embed/841919" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:495px; height:330px"></iframe></font><!-- SnapWidget --> <iframe src="https://snapwidget.com/embed/841919" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:495px; height:330px"></iframe></font>" # the base hostname & protocol for your site
 copyright: 2016 Whatever Company, Inc. All Rights Reserved.
 
 # Build settings
